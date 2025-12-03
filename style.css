@@ -1,0 +1,12 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.jumbotron {
+	background-image: url(img/dokter.jpg);
+	height: 600px;
+	padding-top: 150px;
+	position: relative;
+
+}
